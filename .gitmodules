@@ -9,4 +9,4 @@
 	url = https://github.com/tigmium/parent.git
 [submodule "aho"]
 	path = aho
-	url = https://www.google.co.jp
+	url = https://github.com/tigmium/nothing.git
