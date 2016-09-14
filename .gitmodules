@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/tigmium/sub.git
+[submodule "dir/hihihi"]
+	path = dir/hihihi
+	url = https://github.com/tigmium/parent.git
